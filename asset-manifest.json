@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bhadraraj.github.io/blogApp/static/css/main.aa09a055.css",
+    "main.js": "/Bhadraraj.github.io/blogApp/static/js/main.4cc7d015.js",
+    "static/js/787.1c634a98.chunk.js": "/Bhadraraj.github.io/blogApp/static/js/787.1c634a98.chunk.js",
+    "index.html": "/Bhadraraj.github.io/blogApp/index.html",
+    "main.aa09a055.css.map": "/Bhadraraj.github.io/blogApp/static/css/main.aa09a055.css.map",
+    "main.4cc7d015.js.map": "/Bhadraraj.github.io/blogApp/static/js/main.4cc7d015.js.map",
+    "787.1c634a98.chunk.js.map": "/Bhadraraj.github.io/blogApp/static/js/787.1c634a98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa09a055.css",
+    "static/js/main.4cc7d015.js"
+  ]
+}
